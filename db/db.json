@@ -1,1 +1,25 @@
-{}
+{
+
+    "notes": [{
+
+        "title": "Introduction",
+
+        "text": "This application will help you write and delete notes.",
+
+        "id":"0"
+
+    },
+
+    {
+
+        "title": "JavaScript",
+
+        "text": "A programming language that is object-oriented and commonly used to create interactive effects within web browsers",
+
+        "id":"1"
+
+    }
+
+]
+
+}
